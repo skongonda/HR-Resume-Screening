@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain_experimental
+langchain-openai
+openai
+huggingface-hub
+streamlit
+tiktoken
+python-dotenv
+unstructured
+pinecone-client
+sentence_transformers
+pypdf
+
+# -e .
